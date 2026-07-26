@@ -1,0 +1,6 @@
+{
+  "name": "Borrowed Trust - Peer Vouching",
+  "description": "Myntra hackathon feature simulating a peer-vouching trust badge ecosystem for local Bharat sellers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

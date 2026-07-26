@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  --color-myntra-pink: #ff3f6c;
+  --color-myntra-orange: #fd913c;
+  --color-myntra-dark: #282c3f;
+  --color-myntra-gray: #7e808c;
+  --color-myntra-light: #f5f5f6;
+  --color-myntra-green: #14c24b;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-myntra-light);
+  color: var(--color-myntra-dark);
+}
+
+.bg-myntra-gradient {
+  background: linear-gradient(135deg, #ff3f6c 0%, #fd913c 100%);
+}
+
+.text-myntra-gradient {
+  background: linear-gradient(135deg, #ff3f6c 0%, #fd913c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
