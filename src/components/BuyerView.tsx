@@ -108,7 +108,7 @@ export const products: Product[] = [
     deliveryDays: 5,
     imageType: 'saree',
     bgGradient: 'from-purple-50 to-pink-50',
-    image: "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&q=80&w=800"
+    image: "https://saundaryamfashions.com/cdn/shop/files/2_105a5709-1985-4abc-a3a6-f7e7990355d9.jpg?v=1694522209&width=713"
   },
   {
     id: 'product-3',
