@@ -43,8 +43,6 @@ Our solution bridges this trust gap by enabling experienced sellers to mentor an
 - JavaScript
 - CSS
 
-*(Update this section if you're using additional technologies.)*
-
 ---
 
 ## Future Scope
